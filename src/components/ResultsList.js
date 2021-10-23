@@ -27,6 +27,7 @@ const ResultsList = ({ title, results }) => {
     </View>
   )
 }
+
 const styles = StyleSheet.create({
   title: {
     fontSize: 17.5,
